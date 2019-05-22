@@ -1,2 +1,0 @@
-We learned Git , Github and Sourcetruu.
-It's first commit.
